@@ -1,3 +1,3 @@
 <p align="center">
-  <img scr="" alt="" width="100%">
+  <img scr="./.github/" alt="" width="100%">
 </p>
