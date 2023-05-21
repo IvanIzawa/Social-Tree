@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #FAF7FD;
+}
+
+.content-box{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: grid;
+    margin-top: 201px;
+    margin-bottom: 202px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*photo*/
+
+.profile{
+    justify-content: center;
+    display: inline-block;
+}
+
+figure{
+    display: inline-block;
+    border-radius: 150px;
+    border: 2px solid #BB99DD;
+    width: 213px;
+    height: 213px;
+}
+
+.pro{
+    display: flex;
+    margin: 4px 5px 5px 4px;
+    border-radius: 200px;
+    height: 200px;
+    width: 200px;
+}
+
+h2{
+    margin-top: 15px;
+    color: #BB99DD;
+}
+
+/*options*/
+
+.options{
+    display: grid;
+    grid-template-rows: max-content;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    
+    margin-top: 20px;
+    border: 2px solid #BB99DD;
+    border-radius: 4px;
+    height: 49px;
+    width: 326px;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+    padding: 15px 0 15px 0;
+}
+
+.no-assets{
+    text-decoration: none;
+    color: #BB99DD;
+}
+
+li:hover{
+    background-color: #BB99DD;
+}
+
+.no-assets:hover{
+    color: white;
+}
+
+/*assets*/
+
+.assets{
+    margin-top: 15px;
+    display: block;
+    justify-content: space-between;
+}
+
+.space-jam{
+    margin-left: 13px;
+    margin-right: 13px;
+}
