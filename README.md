@@ -1,6 +1,4 @@
-<p align="center">
-  <img scr=".github/Social-Tree-Discover.jpg" alt="image" width="100%">
-</p>
+![Social Tree Discover](https://github.com/IvanIzawa/Social-Tree/assets/86475971/b06a3eb1-84a7-4045-9f04-4d76b39c6294)
 
 ##Project
 This project is a quest from Discover course on Rocketseat.
