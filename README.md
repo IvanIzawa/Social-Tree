@@ -1,7 +1,7 @@
 ![Social Tree Discover](https://github.com/IvanIzawa/Social-Tree/assets/86475971/b06a3eb1-84a7-4045-9f04-4d76b39c6294)
 
 ##Project
-This project is a quest from Discover course on Rocketseat.
+This project is a quest and a study from Discover course on Rocketseat.
 
 ##Technologies
 
